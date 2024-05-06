@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello, I'm Raj 👋,<br>A self-taught Full Stack Developer 🚀,<br><br>👨‍💻 Full Stack software Developer<br>📚 Constantly learning and exploring new technologies<br>💻 Building projects to hone my skills<br>📫 Connect with me on GitHub<br>🎧 Occasionally dabbling in freelance opportunities<br>♟️When I'm not crafting elegant algorithms, you'll often find me strategizing on the  chessboard. Feel free to [challenge me](https://www.chess.com/member/rkworld09)!<br>🎨 I enjoy participating in and completing monthly Code-Pen challenges,<br><br>Tech I Love ❤️<br>Currently, my tech arsenal includes Next.js, React, Tailwind CSS, Node.js, PostgreSQL and lot other exciting new technologies ..
+# Hello, I'm Raj
+ 👋,<br>A self-taught Full Stack Developer 🚀,<br><br>👨‍💻 Full Stack software Developer<br>📚 Constantly learning and exploring new technologies<br>💻 Building projects to hone my skills<br>📫 Connect with me on GitHub<br>🎧 Occasionally dabbling in freelance opportunities<br>♟️When I'm not crafting elegant algorithms, you'll often find me strategizing on the  chessboard. Feel free to [challenge me](https://www.chess.com/member/rkworld09)!<br>🎨 I enjoy participating in and completing monthly Code-Pen challenges,<br><br>Tech I Love ❤️<br>Currently, my tech arsenal includes Next.js, React, Tailwind CSS, Node.js, PostgreSQL and lot other exciting new technologies ..
 
 
 ## 🌐 Socials:
